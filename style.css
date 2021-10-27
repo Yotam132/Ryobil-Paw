@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+.bg{
+    background-color: #f28f2a;
+}
+
+* {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.navigationDiv a{
+    color: #fff9f3;
+    font-size: 17px;
+}
+
+.navigationDiv a:visited{
+    color: #fff9f3;
+}
+
+.navigationDiv a:hover{
+    color: #f28f2a;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.nav-item {
+    margin-left: 20pt;
+}
+
+.orderNumbDiv {
+    background-color: #fff9f3;
+    border-radius: 50%;
+    color:#f28f2a;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    height: 80pt;
+    width: 80pt;
+}
+
+.cardDiv{
+    display:block;
+    margin:20px;
+}
+
+.footerDiv{
+    background-color: #333333;
+    color: #fff9f3;
+    padding-bottom: 50px;
+}
+
+.footerDiv a{
+    color: #fff9f3;
+}
+
+.footerDiv a:visited{
+    color: #fff9f3;
+}
+
+.footerDiv a:hover{
+    color: #f28f2a;
+    font-weight: bold;
+    text-decoration: none;
+}
